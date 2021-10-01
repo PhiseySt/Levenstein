@@ -1,2 +1,2 @@
 # Levenstein
-Calculation Levenstein distance
+Calculation Levenstein distance (+ optimized memory method)
