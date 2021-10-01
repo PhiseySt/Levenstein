@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj": {}
+    "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj": {}
   },
   "projects": {
-    "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj": {
+    "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
+        "projectUniqueName": "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
         "projectName": "OptimizedMemoryLevenshteinConsole",
-        "projectPath": "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
+        "projectPath": "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
         "packagesPath": "C:\\Users\\FiseyskiySV\\.nuget\\packages\\",
-        "outputPath": "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\obj\\",
+        "outputPath": "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

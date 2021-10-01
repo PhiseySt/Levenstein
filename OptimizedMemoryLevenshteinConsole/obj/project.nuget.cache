@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2XgaK4HA/hOa4LGRshR3ar0N8oZRP4yYzuzKhESh0LJNsFN84lrMPcHnj+KzLwsNrMHrBe3AaxK87SqW/cjtng==",
+  "dgSpecHash": "oZ5lgdSEs3ifnaGeQLPA6wqB32jx3sAf3MLPv40mpdyueD9ciFhAFuUvYqM1+FOqSjQJH/qWtPio7s93d4aMFg==",
   "success": true,
-  "projectFilePath": "C:\\Stas\\Projects\\LevensteinProject\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
+  "projectFilePath": "C:\\Stas\\Projects\\LevensteinProject\\Levenstein\\OptimizedMemoryLevenshteinConsole\\OptimizedMemoryLevenshteinConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
