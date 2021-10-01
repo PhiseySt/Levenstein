@@ -1,0 +1,15 @@
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.exe
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.deps.json
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.runtimeconfig.json
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.runtimeconfig.dev.json
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.dll
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\ref\OptimizedMemoryLevenshteinConsole.dll
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\bin\Debug\net5.0\OptimizedMemoryLevenshteinConsole.pdb
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.AssemblyInfoInputs.cache
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.AssemblyInfo.cs
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.csproj.CoreCompileInputs.cache
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.dll
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\ref\OptimizedMemoryLevenshteinConsole.dll
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.pdb
+C:\Stas\Projects\LevensteinProject\OptimizedMemoryLevenshteinConsole\obj\Debug\net5.0\OptimizedMemoryLevenshteinConsole.genruntimeconfig.cache
